@@ -1,0 +1,26 @@
+#pager {
+    margin: 20px;
+}
+
+#pager .task {
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #fff;
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 0 0;
+    border-style: solid;
+    padding: 20px;
+}
+
+#pager .row.task .panel {
+    margin: 10px;
+}
+
+#pager .row.task .form-control {
+    margin-top: 5px;
+}
+
+#pager .row.task .panel .task2-calc-btn {
+    padding: 10px;
+}
